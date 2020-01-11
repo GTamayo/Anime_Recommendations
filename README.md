@@ -1,8 +1,7 @@
 # Anime Recommendations Database 
 Recommendation data from 76,000 users at myanimelist.net 
 
-
-El objetivo del desafío es desarrollar un sistema de recomendación que permita sugerir anime que los usuarios no han visto, en base a sus ratings previos.
+Sistema de recomendación que permite sugerir anime que los usuarios no han visto.
 
 Dataset:
 https://www.kaggle.com/CooperUnion/anime-recommendations-database#rating.csv 
